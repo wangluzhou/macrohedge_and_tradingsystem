@@ -1,0 +1,21 @@
+{
+  "gitbook": ">=2.0.0",
+  "title": "测试版本",
+  "plugins": [
+    "-search",
+    "search-pro",
+    "atoc",
+    "new-flowchart",
+    "mermaid-atom-mden"
+  ],
+  "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord" : ["Gitbook Use"]
+    },
+    "atoc": {
+      "addClass": true,
+      "className": "atoc"
+    }
+  }
+}
