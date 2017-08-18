@@ -4,7 +4,6 @@
   "plugins": [
     "-search",
     "search-pro",
-    "atoc",
     "new-flowchart",
     "mermaid-atom-mden"
   ],

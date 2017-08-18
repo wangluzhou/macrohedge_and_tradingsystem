@@ -6,4 +6,3 @@
   * [多因子分析平台](asset-allocation-model/duo-yin-zi-fen-xi-ping-tai.md)
   * [主观观点与Black Litterman模型](asset-allocation-model/zhu-guan-guan-dian-yu-black-litterman-mo-xing.md)
 * [交易系统](trading_system/README.md)
-
