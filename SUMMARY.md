@@ -7,7 +7,7 @@
     * [惯性因子](asset-allocation-model/inertia_factor.md)
     * [活跃国开债指数动量因子](asset-allocation-model/cm_factor.md)
     * [水泥因子](asset-allocation-model/concrete_factor.md)
-  * [多因子分析平台](asset-allocation-model/duo-yin-zi-fen-xi-ping-tai.md)
+  * [多因子分析平台](asset-allocation-model/multi-factor-platform.md)
   * [主观观点与Black Litterman模型](asset-allocation-model/zhu-guan-guan-dian-yu-black-litterman-mo-xing.md)
 * [交易系统](trading_system/README.md)
 * [附录1:万得EDB代码](appendix/appendix1.md)
