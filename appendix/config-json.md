@@ -7,7 +7,8 @@ config = {
             "e000":
                 {
                     "period":5,
-                    "type":POSTIVE,
+                    "relation":POSTIVE,
+                    "type": "UP",
                     "his_count": 30,
                     "threshold": 0.05
                 },
@@ -15,7 +16,8 @@ config = {
             "e001":
                 {
                     "period": 1,
-                    "type": POSTIVE,
+                    "relation": POSTIVE,
+                    "type": "linear",
                     "his_count": 30,
                     "std_count": 0
 
