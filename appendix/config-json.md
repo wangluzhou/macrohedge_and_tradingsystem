@@ -34,7 +34,7 @@ config = {
                 {
                     "period":5,
                     "relation": NEGATIVE,
-                    "type": "up,
+                    "type": "low",
                     "count":3,
                     "fall": 0.01
                 }
