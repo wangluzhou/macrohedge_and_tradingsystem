@@ -33,7 +33,8 @@ config = {
             "e003":
                 {
                     "period":5,
-                    "type":NEGATIVE,
+                    "relation": NEGATIVE,
+                    "type": "up,
                     "count":3,
                     "fall": 0.01
                 }
