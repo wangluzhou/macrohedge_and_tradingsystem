@@ -12,4 +12,5 @@
   * [主观观点与Black Litterman模型](asset-allocation-model/black-litterman-model.md)
 * [交易系统](trading_system/README.md)
 * [附录1:万得EDB代码](appendix/appendix1.md)
+* [附录2:MongoDB使用](appendix/appendix2.md)
 * [参考资料](reference/README.md)
