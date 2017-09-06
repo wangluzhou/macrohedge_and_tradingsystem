@@ -9,7 +9,7 @@ config = {
                     "period":5,
                     "type":POSTIVE,
                     "his_count": 30,
-                    "rise_threshold": 0.05
+                    "threshold": 0.05
                 },
 
             "e001":
