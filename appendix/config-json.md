@@ -54,7 +54,17 @@
                     "relation": NEGATIVE,
                     "type": DOWN,
                     "his_count":3
+                },
+            "e004":
+                {
+                    "period":5,
+                    "relation":POSTIVE,
+                    "type":UP,
+                    "his_count": 30,
+                    "threshold": 0.01
+                    
                 }
+            
         }
     }
 
