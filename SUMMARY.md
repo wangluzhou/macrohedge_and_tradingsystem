@@ -3,7 +3,7 @@
 * [摘要](README.md)
 * [大类资产配置模型](asset-allocation-model/README.md)
   * [因子三层框架](asset-allocation-model/triple-layer-framework.md)
-  * [因子事件表](asset-allocation-model/factor-event.md)
+  * [因子事件](asset-allocation-model/factor-event.md)
   * [单因子校验系统](asset-allocation-model/single-factor-validation.md)
     * [惯性因子](asset-allocation-model/inertia_factor.md)
     * [活跃国开债指数动量因子](asset-allocation-model/cm_factor.md)
