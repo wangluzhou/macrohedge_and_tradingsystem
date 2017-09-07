@@ -36,7 +36,7 @@
                 {
                     "period": 1,
                     "relation": POSTIVE,
-                    "type": "linear",
+                    "type": LINEAR,
                     "his_count": 30,
                     "std_count": 0
 
@@ -45,7 +45,7 @@
                 {
                     "period": 5,
                     "relation": POSTIVE,
-                    "type": "up",
+                    "type": UP,
                     "his_count": 3,
                     "threshold": 0.01
                 },
@@ -53,7 +53,7 @@
                 {
                     "period":5,
                     "relation": NEGATIVE,
-                    "type": "down",
+                    "type": DOWN,
                     "his_count":3
                 }
         }
