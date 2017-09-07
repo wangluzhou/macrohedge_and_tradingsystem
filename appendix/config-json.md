@@ -36,7 +36,7 @@
                 {
                     "period": 1,
                     "relation": POSTIVE,
-                    "type": LINEAR,
+                    "type": ALL,
                     "his_count": 30,
                     "std_count": 0
 
