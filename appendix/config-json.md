@@ -27,7 +27,7 @@
                     "period": 5,
                     "relation": POSTIVE,
                     "type": "up",
-                    "count": 3,
+                    "his_count": 3,
                     "rise_threshold": 0.01
                 },
             "e003":
