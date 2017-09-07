@@ -1,4 +1,4 @@
 # 待办清单
 
 1. 线性键对和单边键对如何结合?
-2. Value Momentum Everywhere
+2. Value Momentum Everywhere 从AQR获取灵感
