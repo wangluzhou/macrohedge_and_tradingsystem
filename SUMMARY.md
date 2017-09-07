@@ -10,6 +10,7 @@
     * [水泥因子](asset-allocation-model/concrete_factor.md)
   * [多因子分析平台](asset-allocation-model/multi-factor-platform.md)
   * [主观观点与Black Litterman模型](asset-allocation-model/black-litterman-model.md)
+  * [因子加权风险平价模型](asset-allocation-model/factor-weighted-risk-parity.md)
 * [交易系统](trading_system/README.md)
 * [附录1:万得EDB代码](appendix/appendix1.md)
 * [附录2:MongoDB使用](appendix/appendix2.md)
