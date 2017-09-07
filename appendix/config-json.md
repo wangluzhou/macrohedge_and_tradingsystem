@@ -18,8 +18,6 @@
 * relation 确定正向关系还是负向关系
 * type 确定信号端在哪边
 
-
-
 ```json
 {
     "060E.CS": {
@@ -48,7 +46,7 @@
                     "relation": POSTIVE,
                     "type": "up",
                     "his_count": 3,
-                    "rise_threshold": 0.01
+                    "threshold": 0.01
                 },
             "e003":
                 {
