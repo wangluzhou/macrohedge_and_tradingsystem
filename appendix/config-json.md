@@ -53,7 +53,7 @@
                     "period":5,
                     "relation": NEGATIVE,
                     "type": "down",
-                    "his_count":3
+                    "count":3
                 }
         }
     }
