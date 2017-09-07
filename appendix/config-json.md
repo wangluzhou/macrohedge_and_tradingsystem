@@ -27,7 +27,7 @@
                 {
                     "period":5,
                     "relation":POSTIVE,
-                    "type": "up",
+                    "type": UP,
                     "his_count": 30,
                     "threshold": 0.05
                 },
