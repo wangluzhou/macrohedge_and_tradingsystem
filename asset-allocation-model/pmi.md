@@ -15,3 +15,16 @@ config = {
 - 最差表现：-11.55BP
 - 收益率平均变化： 7.71BP
 - 准确率: 58.8%
+
+## 事件e003x2
+- 标的资产: 10年国开债收益率
+- 参数配置:
+```
+config = {
+    "relation":NEGATIVE,
+    "type":UP,
+    "his_count": 3,
+    "threshold":0, 
+    "period": 1
+}
+```
