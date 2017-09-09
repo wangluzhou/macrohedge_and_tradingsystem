@@ -1,9 +1,10 @@
 {
   "gitbook": ">=2.0.0",
-  "title": "测试版本",
+  "title": "pythonic_routine",
   "plugins": [
-    "-search",
+    "search",
     "search-pro",
+    "atoc",
     "new-flowchart",
     "mermaid-atom-mden"
   ],
@@ -16,5 +17,5 @@
       "addClass": true,
       "className": "atoc"
     }
-  }
+   }
 }
