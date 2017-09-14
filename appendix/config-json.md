@@ -74,6 +74,13 @@
                 },
             "e006":
                 {
+                    "period": 5,
+                    "relation": POSTIVE,
+                    "type": UP,
+                    "long_count": 30,
+                    "short_count": 5
+                    "std_count": 1
+
                 },
             "e007":
                 {
