@@ -63,7 +63,7 @@
                     "type":UP,
                     "his_count": 30,
                     "threshold": 0.01
-                }
+                },
             "e005":
                 {
                     "period": 5,
@@ -71,6 +71,12 @@
                     "type": UP,
                     "his_count": 30,
                     "threshold": 0.01
+                },
+            "e006":
+                {
+                },
+            "e007":
+                {
                 }
 
         }
