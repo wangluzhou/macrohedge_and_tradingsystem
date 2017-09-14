@@ -78,7 +78,7 @@
                     "relation": POSTIVE,
                     "type": UP,
                     "long_count": 30,
-                    "short_count": 5
+                    "short_count": 5,
                     "std_count": 1
 
                 },
