@@ -6,7 +6,8 @@
     "search-pro",
     "atoc",
     "new-flowchart",
-    "mermaid-atom-mden"
+    "mermaid-atom-mden",
+    "katex"
   ],
   "pluginsConfig": {
     "search-pro": {
